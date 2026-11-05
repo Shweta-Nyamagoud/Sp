@@ -1,2 +1,2 @@
 # Sp
-Useful for beginners learning DSA with C Programming
+Useful for beginners learning DSA with C Programming.
